@@ -1,5 +1,5 @@
 import "./about.css"
-import AnimatedPage from '../AnimatedPage';
+import AnimatedPage from '../AnimatedPage.jsx';
 
 import React from 'react';
 function About(){

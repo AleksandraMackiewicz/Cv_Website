@@ -1,6 +1,6 @@
 import React from 'react';
 import "./experience.css"
-import AnimatedPage from '../AnimatedPage';
+import AnimatedPage from '../AnimatedPage.jsx';
 
 function Experience(){
     return(
