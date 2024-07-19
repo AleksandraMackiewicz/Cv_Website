@@ -8,8 +8,8 @@ function Contact(){
         <>
         <div className="contact_container">
         <h1>Contact me:</h1><br />
-        <p>email@gmail.com</p>
-        <p>discord: alex7894</p>
+        <p>aleksandramackiewiczam@gmail.com</p>
+        <p>discord: alex175963</p>
         </div>
         </>
         </AnimatedPage>
